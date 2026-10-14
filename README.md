@@ -36,7 +36,7 @@ Move content into `database` when it is **data** — a source of truth or an acc
 | Project | Tables | Source | Cadence | Visibility |
 | --- | --- | --- | --- | --- |
 | `data-science/` | `markets/movements`, `news/brazil`, `news/tech` | brapi.dev (B3) · RSS | scheduled | public |
-| `browser-games/` | `puzzles/{sudoku,crosswords,logic-puzzles}` | hand-authored banks | on change | public |
+| `browser-games/` | `puzzles/{sudoku,crosswords,logic-puzzles}`, `catalog/*` | hand-authored banks · game catalog | on change | public |
 | `wiki/` | `consumables/*`, `playlists/*`, `tasks/*` | source of truth for the wiki views | on change | public |
 
 ## 🗂️ Layout
