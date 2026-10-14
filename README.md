@@ -39,6 +39,8 @@ Move content into `database` when it is **data** — a source of truth or an acc
 | `browser-games/` | `puzzles/{sudoku,crosswords,logic-puzzles}`, `catalog/*` | hand-authored banks · game catalog | on change | public |
 | `wiki/` | `consumables/*`, `playlists/*`, `tasks/*` | source of truth for the wiki views | on change | public |
 
+**Planned (stub, no data yet):** `ai-training/{sudoku,images}/` — see [`ai-training/README.md`](ai-training/README.md).
+
 ## 🗂️ Layout
 
 ```text
